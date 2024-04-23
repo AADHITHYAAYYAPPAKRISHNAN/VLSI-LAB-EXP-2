@@ -68,7 +68,7 @@ endmodule
 ```
 
 ### Output:
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/f4e08344-3d16-42f7-af04-e923a07f49d5)
+[image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/f4e08344-3d16-42f7-af04-e923a07f49d5)
 
 
 ## MULTIPLEXER:
